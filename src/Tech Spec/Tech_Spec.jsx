@@ -27,9 +27,8 @@ const YourComponent = () => {
               <strong>Pipe Type:</strong> Precast Reinforced Concrete Spun Pipe
             </p>
             <p>
-              <strong>I.S. Ref.:</strong> IS: 458/2003
-            </p>
-            <p>
+              <strong>I.S. Ref.:</strong> IS: 458/2021
+            </p>            <p>
               <strong>Class:</strong> NP2, NP3, NP4, P1, P2 & P3
             </p>
           </div>
