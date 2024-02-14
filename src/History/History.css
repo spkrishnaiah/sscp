@@ -1,0 +1,23 @@
+.history {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: justify;
+}
+.history > .card {
+  width: 80%;
+  padding: 20px;
+  border: solid 2px;
+}
+#card-title {
+  text-align: center;
+  background-color: rgb(150, 147, 147);
+  font-family: "Times New Roman", Times, serif;
+  font-size: 2rem;
+  color: whitesmoke;
+}
+.p {
+  font-size: 8rem;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-weight: bold;
+}

@@ -1,0 +1,14 @@
+.Carousel {
+  height: 150px;
+}
+.carousel-inner {
+  height: 760px;
+}
+/* Your existing CSS for carousel-inner */
+
+/* Add media query for screens 767px or less */
+@media (max-width: 767px) {
+  .carousel-inner {
+    height: 230px;
+  }
+}

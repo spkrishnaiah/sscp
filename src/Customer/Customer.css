@@ -1,0 +1,14 @@
+.ul {
+  list-style: none;
+}
+strong {
+  color: red;
+  font-weight: bold;
+  font-size: 1.3rem;
+}
+li {
+  font-weight: bold;
+}
+.sublist {
+  list-style: lower-alpha;
+}
