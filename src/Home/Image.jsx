@@ -18,7 +18,7 @@ function Image() {
             <br />
             E-mail: vj_ak@yahoo.com
             <br />
-            yogendratp@gmail.com
+            yogendra.tp@gmail.com
           </div>
         </div>
       </div>
